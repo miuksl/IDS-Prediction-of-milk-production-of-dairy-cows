@@ -1,6 +1,6 @@
 # Prediction of milk production of dairy cows
 
-**Tiimiliikmed:** Oliver Toome, Kristofer-Robin Tiits, Mio Cristopher Vahtra
+**Team members:** Oliver Toome, Kristofer-Robin Tiits, Mio Cristopher Vahtra
 
 **Motivation:** The motivation behind this project is to improve dairy farm management and cow health monitoring. Accurate predictions of milk production allow farmers to make better management decisions, set clear performance targets, and perform genetic benchmarking. Additionally, it enables effective herd performance monitoring, such as estimating mineral excretion, which is crucial for sustainable dairy farming.
 
